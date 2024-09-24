@@ -1,0 +1,23 @@
+[1m[31mERROR   [0m root:test_moderator_main_menu.py:192 Error while verifying the success message: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.114)
+Stacktrace:
+	GetHandleVerifier [0x00007FF64972B632+29090]
+	(No symbol) [0x00007FF64969E6E9]
+	(No symbol) [0x00007FF64955B1CA]
+	(No symbol) [0x00007FF64952FAF5]
+	(No symbol) [0x00007FF6495DE2E7]
+	(No symbol) [0x00007FF6495F5EE1]
+	(No symbol) [0x00007FF6495D6493]
+	(No symbol) [0x00007FF6495A09B1]
+	(No symbol) [0x00007FF6495A1B11]
+	GetHandleVerifier [0x00007FF649A4883D+3294125]
+	GetHandleVerifier [0x00007FF649A94423+3604371]
+	GetHandleVerifier [0x00007FF649A8A2E7+3563095]
+	GetHandleVerifier [0x00007FF6497E6F16+797318]
+	(No symbol) [0x00007FF6496A986F]
+	(No symbol) [0x00007FF6496A5454]
+	(No symbol) [0x00007FF6496A55E0]
+	(No symbol) [0x00007FF649694A7F]
+	BaseThreadInitThunk [0x00007FFA0C57257D+29]
+	RtlUserThreadStart [0x00007FFA0D5AAF28+40]

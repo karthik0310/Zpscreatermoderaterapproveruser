@@ -1,0 +1,2 @@
+[1m[31mERROR   [0m root:test_approver_main_menu.py:147 No matching row found with name 'Automation text' and status 'Moderated'.
+[1m[31mERROR   [0m root:test_approver_main_menu.py:151 Error during search and edit: Matching row not found

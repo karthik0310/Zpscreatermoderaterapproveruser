@@ -1,0 +1,2 @@
+Screenshot saved to screenshots/edit_button_visible.png
+Screenshot saved to screenshots/clicked_edit_button.png
